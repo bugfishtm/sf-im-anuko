@@ -3,7 +3,7 @@
 ## 📙 Introduction 
 
 > [!Warning]
-> This repository contains plugins for Suitefish CMS. For issues with third-party software or code included in this plugin, please contact the respective authors (search online by name). For Suitefish CMS-specific issues, create a ticket at: https://github.com/bugfishtm/suitefish-cms/issues.
+> This repository contains plugins for Suitefish CMS. For issues with third-party software or code included in this plugin, please contact the respective authors (search online by name). For Software-specific issues, create a ticket at: https://github.com/bugfishtm/suitefish-cms/issues.
 
 Anuko Time Tracker is an open source, web-based time tracking application written in PHP. It allows you to track the time that employees or colleagues spend working on projects and tasks. It needs a web server such as Apache, IIS, etc. to run on, and a database to keep the data in, such as MySQL.
 
